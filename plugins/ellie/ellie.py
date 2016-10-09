@@ -17,9 +17,14 @@ rules = {
     "?*x yo ?*y": [
         "yo.",
         ],
+    "?*x How's going ?*y": [
+        "Cocked. Locked. Ready to rock.",
+        "Not bad. You?"
+    ],
     "?*x how are ?*y": [
         "How so?",
         "Alright",
+        "Dope",
         ],
     "?*x computer ?*y": [
         "Do computers worry you?",
